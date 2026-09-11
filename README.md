@@ -1,0 +1,3 @@
+#README
+
+#THIS IS AN CLASS ASSIGNMENT - Loc Nguyen
